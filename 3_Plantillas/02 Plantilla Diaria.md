@@ -1,0 +1,7 @@
+# Objetivos
+
+- [ ] 
+- [ ] 
+- [ ] 
+---
+## Reflexiones del Día
