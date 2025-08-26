@@ -1,10 +1,15 @@
 ---
 Modificaciones:
+  - 2025-08-25T22:04:47+02:00
   - 2025-08-23T13:49:50+02:00
 Creación: 2025-04-03T18:45:38+02:00
 tags:
   - _Todo
+  - ToTag
+  - ToLink
 ---
+##### ¿ Qué quiero expresar en esta nota?
+
 - Dopamine Deficit State
 - arquetipos artista, profeta y heroe
 - modernidad liquida

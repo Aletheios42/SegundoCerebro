@@ -5,6 +5,8 @@ Modificaciones:
 Creación: 2025-04-03T18:45:38+02:00
 tags:
   - _Todo
+  - ToTag
+  - ToLink
 ---
  # Objetivos de la nota
  - ¿Por qué nos reimos?
