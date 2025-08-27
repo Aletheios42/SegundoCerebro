@@ -1,0 +1,197 @@
+{
+	"nodes":[
+		{"id":"907816c1199d8420","type":"group","x":-20,"y":-820,"width":628,"height":739,"color":"3","label":"Organización"},
+		{"id":"208ec1d248833622","type":"group","x":-555,"y":-580,"width":195,"height":440,"color":"2","label":"Tipos de Notas"},
+		{"id":"0e70ebdb3356b6b7","type":"group","x":-685,"y":320,"width":260,"height":240,"color":"#c421a6","label":"Plugins"},
+		{
+			"id":"9b089fdf24364661",
+			"type":"text",
+			"text":"Nota:\ncaptura ideas simples  través de texto",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-555,
+			"y":-580,
+			"width":195,
+			"height":85,
+			"color":"2"
+		},
+		{
+			"id":"fc1d23d977324b44",
+			"type":"text",
+			"text":"Bosquejo:\nCaptura ideas complejas manea visual, ideal para mapas conceptuales.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-555,
+			"y":-495,
+			"width":195,
+			"height":131,
+			"color":"2"
+		},
+		{
+			"id":"f57549221677c9cb",
+			"type":"text",
+			"text":"Canvas:\nCaptura ideas compuestas de manera visual",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-555,
+			"y":-364,
+			"width":195,
+			"height":100,
+			"color":"2"
+		},
+		{
+			"id":"9a487f86091b4db1",
+			"type":"text",
+			"text":"Bases:\nSon índices, recompilan otras notas para filtrado y accesibilidad.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-555,
+			"y":-265,
+			"width":195,
+			"height":125,
+			"color":"2"
+		},
+		{"id":"44d713516933b5b3","type":"file","file":"1_Zettelkasten/Guía Markdown en Obsidian.md","x":-780,"y":-10,"width":280,"height":80,"color":"1"},
+		{"id":"19c6df854dd53a38","type":"file","file":"1_Zettelkasten/Etiquetas en Obsidian.md","x":-20,"y":-700,"width":628,"height":216,"color":"3"},
+		{"id":"f2073eb37e3cdb2b","type":"file","file":"1_Zettelkasten/Links En Obsidian.md","x":-20,"y":-820,"width":628,"height":120,"color":"3"},
+		{"id":"1933d26698e0c567","type":"file","file":"1_Zettelkasten/Carpetas Segundo Cerebro.md","x":-20,"y":-484,"width":628,"height":403,"color":"3"},
+		{
+			"id":"29bfefcd5ecc2666",
+			"type":"text",
+			"text":"SEGUNDO CEREBRO EN OBSIDIAN",
+			"styleAttributes":{"textAlign":"center","shape":"pill"},
+			"x":-60,
+			"y":240,
+			"width":205,
+			"height":80,
+			"color":"6"
+		},
+		{
+			"id":"2a41cac9380e9a94",
+			"type":"text",
+			"text":"Advance Canvas",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-685,
+			"y":320,
+			"width":260,
+			"height":60,
+			"color":"#bc1a89"
+		},
+		{
+			"id":"6f72601ce6a18478",
+			"type":"text",
+			"text":"Excalidraw",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-685,
+			"y":440,
+			"width":260,
+			"height":60,
+			"color":"#bc1a89"
+		},
+		{
+			"id":"3251e4043a0aa040",
+			"type":"text",
+			"text":"Update Modifiy date",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-685,
+			"y":500,
+			"width":260,
+			"height":60,
+			"color":"#bc1a89"
+		},
+		{
+			"id":"d92ee4241e71721f",
+			"type":"text",
+			"text":"Advance Tables",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-685,
+			"y":380,
+			"width":260,
+			"height":60,
+			"color":"#bc1a89"
+		},
+		{"id":"3f07e52bc6806e2b","type":"file","file":"1_Zettelkasten/C.O.D.E.md","x":580,"y":0,"width":740,"height":760,"color":"4"},
+		{
+			"id":"630c84599f5918a4",
+			"type":"text",
+			"text":"Es una cadena de producción de conocimiento.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-75,
+			"y":560,
+			"width":440,
+			"height":60,
+			"color":"6"
+		}
+	],
+	"edges":[
+		{
+			"id":"17b787c6960bdf70",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"29bfefcd5ecc2666",
+			"fromSide":"left",
+			"toNode":"44d713516933b5b3",
+			"toSide":"bottom",
+			"color":"1",
+			"label":"¿Cómo escribo?"
+		},
+		{
+			"id":"2205a2afdd7416a5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"29bfefcd5ecc2666",
+			"fromSide":"right",
+			"toNode":"3f07e52bc6806e2b",
+			"toSide":"left",
+			"color":"4",
+			"label":"Filosofía"
+		},
+		{
+			"id":"3cf08c7c2d6e52c9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"29bfefcd5ecc2666",
+			"fromSide":"bottom",
+			"toNode":"0e70ebdb3356b6b7",
+			"toSide":"right",
+			"color":"#b25180"
+		},
+		{
+			"id":"c5492727d3a49cec",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"29bfefcd5ecc2666",
+			"fromSide":"top",
+			"toNode":"208ec1d248833622",
+			"toSide":"bottom",
+			"color":"2"
+		},
+		{
+			"id":"4aa28e2685ade44a",
+			"styleAttributes":{
+				"path":null
+			},
+			"toFloating":false,
+			"fromNode":"29bfefcd5ecc2666",
+			"fromSide":"top",
+			"toNode":"1933d26698e0c567",
+			"toSide":"bottom",
+			"color":"3"
+		},
+		{
+			"id":"9af126f7811947f8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"29bfefcd5ecc2666",
+			"fromSide":"bottom",
+			"toNode":"630c84599f5918a4",
+			"toSide":"top",
+			"color":"6",
+			"label":"¿Qué es?"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{
+			"tags":["_Done","SegundoCerebro"]
+		}
+	}
+}

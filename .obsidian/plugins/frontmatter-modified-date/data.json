@@ -1,0 +1,18 @@
+{
+  "frontmatterProperty": "Modificaciones",
+  "createdDateProperty": "Creación",
+  "momentFormat": "",
+  "storeHistoryLog": true,
+  "historyNewestFirst": false,
+  "historyMaxItems": 0,
+  "excludedFolders": [
+    "3_Plantillas",
+    "4_Multimedia"
+  ],
+  "useKeyupEvents": false,
+  "onlyUpdateExisting": false,
+  "timeout": 10,
+  "excludeField": "exclude_modified_update",
+  "appendField": "append_modified_update",
+  "appendMaximumFrequency": "day"
+}
