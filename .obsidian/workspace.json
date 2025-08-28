@@ -4,27 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "c34f9affbcf09165",
+        "id": "4d1389c7e2da42ee",
         "type": "tabs",
         "children": [
           {
-            "id": "2bf7110c550a80e2",
+            "id": "cadc16402a7797e2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1_Zettelkasten/SegundoCerebro En Obsidian.canvas",
-                "viewState": {
-                  "x": 107.1987166953536,
-                  "y": -59.80867871670225,
-                  "zoom": -0.8607941810190647
+                "file": "0_Inbox/Rutina Empuje Hipertrofia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "SegundoCerebro En Obsidian"
+              "icon": "lucide-file",
+              "title": "Rutina Empuje Hipertrofia"
+            }
+          },
+          {
+            "id": "d4a74f0c9789d1a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_Inbox/Rutina Empuje Hipertrofia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rutina Empuje Hipertrofia"
+            }
+          },
+          {
+            "id": "3e4a8a3763192a4a",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "4_Multimedia/Dumbbells-dumbbell-reverse-curl-side.mp4"
+              },
+              "icon": "lucide-file",
+              "title": "Dumbbells-dumbbell-reverse-curl-side"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#_Mejorar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,49 +136,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2af8ef98ed55e152",
+            "id": "52924e268bc2b569",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1_Zettelkasten/SegundoCerebro En Obsidian.canvas"
+                "file": "0_Inbox/Rutina Empuje Hipertrofia.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para SegundoCerebro En Obsidian"
+              "title": "Propiedades de los archivos para Rutina Empuje Hipertrofia"
             }
           },
           {
-            "id": "92bb6df7550084a5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "1_Zettelkasten/SegundoCerebro En Obsidian.canvas",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Esquema de SegundoCerebro En Obsidian"
-            }
-          },
-          {
-            "id": "0ad7088ce4bc5023",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
-            }
-          },
-          {
-            "id": "496a1e9bf479b91a",
+            "id": "596ce99fe0a81086",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -146,6 +160,31 @@
               "icon": "lucide-archive",
               "title": "Todas las propiedades"
             }
+          },
+          {
+            "id": "0ad7088ce4bc5023",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "389330ef1bf4a063",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ]
       },
@@ -153,6 +192,21 @@
         "id": "d13d741b41e02825",
         "type": "tabs",
         "children": [
+          {
+            "id": "92bb6df7550084a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0_Inbox/Rutina Empuje Hipertrofia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Rutina Empuje Hipertrofia"
+            }
+          },
           {
             "id": "0a90d1261a8be548",
             "type": "leaf",
@@ -177,16 +231,15 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Zettelkasten/SegundoCerebro En Obsidian.canvas",
+                "file": "0_Inbox/Santos Inocentes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de SegundoCerebro En Obsidian"
+              "title": "Enlaces salientes de Santos Inocentes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,32 +253,50 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2af8ef98ed55e152",
+  "active": "d4a74f0c9789d1a6",
   "lastOpenFiles": [
-    "0_Inbox/Vibe Coding.md",
-    "0_Inbox/Santos Inocentes.md",
-    "0_Inbox/Jerarquías de chomsky.md",
-    "1_Zettelkasten/Links En Obsidian.md",
-    "1_Zettelkasten/SegundoCerebro En Obsidian.canvas",
-    "0_Inbox/Segundo Cerebro.md",
+    "0_Inbox/Rutina Piernas Hipertrófia.md",
+    "0_Inbox/Rutina Tracción Hipertrófia.md",
+    "0_Inbox/Rutina Empuje Hipertrofia.md",
+    "1_Zettelkasten/Press de banca con barra.md",
+    "1_Zettelkasten/Curl Inverso Con Mancuernas.md",
+    "4_Multimedia/{Trigono|Geo}metría_Didactica.jpg",
+    "4_Multimedia/Dumbbells-dumbbell-reverse-curl-side.mp4",
+    "4_Multimedia/Sin confirmar 28066.crdownload",
+    "4_Multimedia/Dumbbells-dumbbell-reverse-curl-front.mp4",
+    "4_Multimedia/Sin confirmar 354091.crdownload",
+    "1_Zettelkasten/Peso muerto con barra.md",
+    "3_Plantillas/05 Plantilla Ejercicio.md",
+    "3_Plantillas/06 Plantilla Rutina Entrenamiento.md",
+    "1_Zettelkasten/Elevación alternada con mancuernas para el deltoides posterior.md",
     "0_Inbox/Devpods Configuración Inicial.md",
-    "0_Inbox/Chistes.md",
-    "1_Zettelkasten/Guía Markdown en Obsidian.md",
-    "1_Zettelkasten/Etiquetas en Obsidian.md",
-    "1_Zettelkasten/Carpetas Segundo Cerebro.md",
-    "1_Zettelkasten/C.O.D.E.md",
+    "4_Multimedia/Barbell-barbell-deadlift-front.mp4",
+    "4_Multimedia/Barbell-barbell-deadlift-side.mp4",
+    "4_Multimedia/Sin confirmar 982697.crdownload",
+    "4_Multimedia/Sin confirmar 320941.crdownload",
+    "4_Multimedia/Dumbbells-dumbbell-alternating-rear-delt-fly-side.mp4",
+    "4_Multimedia/Dumbbells-dumbbell-alternating-rear-delt-fly-front.mp4",
+    "2_Vitrina/VirtualBox/Duplicar OVA VM.md",
+    "1_Zettelkasten/Elevación Rotacional con Landmine a Press.md",
+    "1_Zettelkasten/Elevaciones Laterales Con Mancuernas.md",
+    "0_Inbox/Aperturas en banco inclinado con mancuernas.md",
+    "1_Zettelkasten/Press De Banca Inclinado Con Mancuernas.md",
+    "4_Multimedia/barbell-bench-press-side_KciuhbB.avif",
+    "4_Multimedia/Chuleta_Regex_Apuntes.jpg",
+    "1_Zettelkasten/Patada de Tríceps con Mancuerna.md",
+    "1_Zettelkasten/Extensión de tríceps con barra por encima de la cabeza.md",
+    "0_Inbox/Psique del Mundo Actual.md",
     "3_Plantillas/01 Plantilla Nota.md",
+    "3_Plantillas/02 Plantilla Diaria.md",
     "3_Plantillas/03 Plantilla Película.md",
     "3_Plantillas/04 Plantilla Libro.md",
-    "3_Plantillas/02 Plantilla Diaria.md",
-    "0_Inbox/Captura.md",
-    "2_Vitrina/Linux/Linux i3 Idioma.md",
-    "0_Inbox/Psique del Mundo Actual.md",
-    "0_Inbox/Drawing 2025-08-27 13.32.56.excalidraw.md",
-    "0_Inbox/Sin título.base",
-    "1_Zettelkasten/Lemas, refranes y proverbios.md"
+    "0_Inbox/Entrenamiento Ideal.md",
+    "0_Inbox/Camino del Heroe.md",
+    "0_Inbox/Jerarquías de chomsky.md",
+    "1_Zettelkasten/SegundoCerebro En Obsidian.canvas"
   ]
 }

@@ -6,5 +6,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "4_Multimedia",
   "propertiesInDocument": "hidden",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": false
 }

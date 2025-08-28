@@ -3,6 +3,7 @@ Modificaciones:
   - 2025-08-26T21:26:17+02:00
   - 2025-08-25T22:04:23+02:00
   - 2025-08-24T21:17:53+02:00
+  - 2025-08-28T06:59:59+02:00
 Creación: 2025-05-12T12:30:33+02:00
 tags:
   - _Todo
@@ -10,7 +11,9 @@ tags:
   - ToLink
 ---
  # Objetivos de la nota
- - 
+ - Especificar el caso de uso positivo
+ - Exponer el sutil y malvado  trasbase cognitivo
+ - Exponer lo pretencioso del vibecoding
 ---
 
 
