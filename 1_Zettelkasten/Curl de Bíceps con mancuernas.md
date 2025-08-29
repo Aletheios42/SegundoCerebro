@@ -1,6 +1,7 @@
 ---
 Modificaciones:
   - 2025-08-28T19:00:19+02:00
+  - 2025-08-29T08:15:03+02:00
 Creación: 2025-08-28T18:57:14+02:00
 tags:
   - _Done
@@ -16,7 +17,7 @@ tags:
  # Músculos involucrados
 **Principales:**
 * Bíceps braquial
-**Secundarios:**
+**Sinergistas/Estabilizadores:**
 * Braquial
 * Braquiorradial
 * Deltoides anterior (en menor medida, para estabilización del brazo)

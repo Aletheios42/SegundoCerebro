@@ -1,6 +1,7 @@
 ---
 Modificaciones:
   - 2025-08-28T22:35:38+02:00
+  - 2025-08-29T08:16:14+02:00
 Creación: 2025-08-28T22:31:06+02:00
 tags:
   - _Done
@@ -9,14 +10,14 @@ tags:
 ---
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; width: 100%;">
-  <video src="4_Multimedia/Barbell-barbell-overhead-tricep-extension-front.mp4" controls style="width: 100%;"></video>
-  <video src="4_Multimedia/Barbell-barbell-overhead-tricep-extension-side.mp4" controls style="width: 100%;"></video>
+  <video src="Barbell-barbell-overhead-tricep-extension-front.mp4" controls style="width: 100%;"></video>
+  <video src="Barbell-barbell-overhead-tricep-extension-side.mp4" controls style="width: 100%;"></video>
 </div>
 
  # Músculos involucrados
 **Principales:**
 - Tríceps braquial (todas sus cabezas, especialmente la cabeza larga)
-**Secundarios:**
+**Sinergistas/Estabilizadores:**
 - Ancóneo
 - Deltoides anterior (como estabilizador del hombro)
 - Trapecio y romboides (estabilización escapular)

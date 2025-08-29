@@ -8,7 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cadc16402a7797e2",
+            "id": "f72866cd1e6d099c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_Inbox/Rutina Piernas Hipertrófia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rutina Piernas Hipertrófia"
+            }
+          },
+          {
+            "id": "017b2397c20cc256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_Inbox/Rutina Tracción Hipertrófia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rutina Tracción Hipertrófia"
+            }
+          },
+          {
+            "id": "187319e1856779ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +80,12 @@
             }
           },
           {
-            "id": "d4a74f0c9789d1a6",
+            "id": "cb72324226f058d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_Inbox/Rutina Empuje Hipertrofia.md",
+                "file": "0_Inbox/Rutina Piernas Hipertrófia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,23 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rutina Empuje Hipertrofia"
-            }
-          },
-          {
-            "id": "3e4a8a3763192a4a",
-            "type": "leaf",
-            "state": {
-              "type": "video",
-              "state": {
-                "file": "4_Multimedia/Dumbbells-dumbbell-reverse-curl-side.mp4"
-              },
-              "icon": "lucide-file",
-              "title": "Dumbbells-dumbbell-reverse-curl-side"
+              "title": "Rutina Piernas Hipertrófia"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,15 +172,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52924e268bc2b569",
+            "id": "3889487f13497a64",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0_Inbox/Rutina Empuje Hipertrofia.md"
+                "file": "0_Inbox/Rutina Piernas Hipertrófia.md"
               },
               "icon": "lucide-info",
-              "title": "Propiedades de los archivos para Rutina Empuje Hipertrofia"
+              "title": "Propiedades de los archivos para Rutina Piernas Hipertrófia"
             }
           },
           {
@@ -198,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_Inbox/Rutina Empuje Hipertrofia.md",
+                "file": "0_Inbox/Rutina Piernas Hipertrófia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Rutina Empuje Hipertrofia"
+              "title": "Esquema de Rutina Piernas Hipertrófia"
             }
           },
           {
@@ -257,46 +293,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4a74f0c9789d1a6",
+  "active": "cb72324226f058d2",
   "lastOpenFiles": [
-    "0_Inbox/Rutina Piernas Hipertrófia.md",
-    "0_Inbox/Rutina Tracción Hipertrófia.md",
     "0_Inbox/Rutina Empuje Hipertrofia.md",
-    "1_Zettelkasten/Press de banca con barra.md",
-    "1_Zettelkasten/Curl Inverso Con Mancuernas.md",
-    "4_Multimedia/{Trigono|Geo}metría_Didactica.jpg",
-    "4_Multimedia/Dumbbells-dumbbell-reverse-curl-side.mp4",
-    "4_Multimedia/Sin confirmar 28066.crdownload",
-    "4_Multimedia/Dumbbells-dumbbell-reverse-curl-front.mp4",
-    "4_Multimedia/Sin confirmar 354091.crdownload",
-    "1_Zettelkasten/Peso muerto con barra.md",
+    "0_Inbox/Rutina Tracción Hipertrófia.md",
+    "0_Inbox/Rutina Piernas Hipertrófia.md",
+    "1_Zettelkasten/Salto de gemelos con barra.md",
+    "4_Multimedia/Ejercicios/barbell-calf-jump-side.mp4",
+    "4_Multimedia/Ejercicios/Sin confirmar 583802.crdownload",
+    "4_Multimedia/Ejercicios/barbell-calf-jump-front.mp4",
+    "4_Multimedia/Ejercicios/Sin confirmar 229830.crdownload",
+    "1_Zettelkasten/Elevación de gemelos sentado con barra.md",
+    "4_Multimedia/Ejercicios/barbell-seated-calf-raise-side.mp4",
+    "4_Multimedia/Ejercicios/Sin confirmar 120071.crdownload",
+    "4_Multimedia/Ejercicios/barbell-seated-calf-raise-front.mp4",
+    "4_Multimedia/Ejercicios/Sin confirmar 948996.crdownload",
+    "1_Zettelkasten/Elevación de gemelos con landmine.md",
+    "4_Multimedia/Ejercicios/Barbell-landmine-calf-raise-side.mp4",
+    "4_Multimedia/Ejercicios/Sin confirmar 525615.crdownload",
+    "3_Plantillas/04 Plantilla Libro.md",
     "3_Plantillas/05 Plantilla Ejercicio.md",
-    "3_Plantillas/06 Plantilla Rutina Entrenamiento.md",
-    "1_Zettelkasten/Elevación alternada con mancuernas para el deltoides posterior.md",
-    "0_Inbox/Devpods Configuración Inicial.md",
-    "4_Multimedia/Barbell-barbell-deadlift-front.mp4",
-    "4_Multimedia/Barbell-barbell-deadlift-side.mp4",
-    "4_Multimedia/Sin confirmar 982697.crdownload",
-    "4_Multimedia/Sin confirmar 320941.crdownload",
-    "4_Multimedia/Dumbbells-dumbbell-alternating-rear-delt-fly-side.mp4",
-    "4_Multimedia/Dumbbells-dumbbell-alternating-rear-delt-fly-front.mp4",
-    "2_Vitrina/VirtualBox/Duplicar OVA VM.md",
+    "1_Zettelkasten/Etiquetas en Obsidian.md",
+    "1_Zettelkasten/Elevación De Tibial Anterior De Pie Con Mancuerna.md",
+    "1_Zettelkasten/Sentadilla búlgara con mancuernas.md",
+    "1_Zettelkasten/Zancada de reverencia con barra.md",
+    "1_Zettelkasten/Aperturas en banco inclinado con mancuernas.md",
+    "1_Zettelkasten/Sentadilla frontal con barra olímpica.md",
+    "1_Zettelkasten/Arrancada con landmine.md",
+    "1_Zettelkasten/Hip Thrust con Barra con Talones Elevados.md",
+    "1_Zettelkasten/Remo con barra Meadows.md",
+    "1_Zettelkasten/Remo con barra en landmine.md",
+    "1_Zettelkasten/Remo al mentón con barra.md",
+    "1_Zettelkasten/Peso muerto rumano a una pierna con mancuerna.md",
+    "1_Zettelkasten/Peso Muerto Rumano Escalonado con Landmine.md",
+    "1_Zettelkasten/Encogimiento de hombros en pike con peso corporal.md",
     "1_Zettelkasten/Elevación Rotacional con Landmine a Press.md",
-    "1_Zettelkasten/Elevaciones Laterales Con Mancuernas.md",
-    "0_Inbox/Aperturas en banco inclinado con mancuernas.md",
-    "1_Zettelkasten/Press De Banca Inclinado Con Mancuernas.md",
+    "1_Zettelkasten/Curl Inverso Con Mancuernas.md",
+    "1_Zettelkasten/Curl de Bíceps con mancuernas.md",
+    "4_Multimedia/{Trigono|Geo}metría_Didactica.jpg",
     "4_Multimedia/barbell-bench-press-side_KciuhbB.avif",
     "4_Multimedia/Chuleta_Regex_Apuntes.jpg",
-    "1_Zettelkasten/Patada de Tríceps con Mancuerna.md",
-    "1_Zettelkasten/Extensión de tríceps con barra por encima de la cabeza.md",
-    "0_Inbox/Psique del Mundo Actual.md",
-    "3_Plantillas/01 Plantilla Nota.md",
-    "3_Plantillas/02 Plantilla Diaria.md",
-    "3_Plantillas/03 Plantilla Película.md",
-    "3_Plantillas/04 Plantilla Libro.md",
-    "0_Inbox/Entrenamiento Ideal.md",
-    "0_Inbox/Camino del Heroe.md",
-    "0_Inbox/Jerarquías de chomsky.md",
     "1_Zettelkasten/SegundoCerebro En Obsidian.canvas"
   ]
 }

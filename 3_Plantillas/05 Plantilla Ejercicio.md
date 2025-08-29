@@ -16,10 +16,8 @@ tags:
  # Músculos involucrados
 **Principales:**
 * MUSCULO_PRINCIPAL_1
-**Sinergistas:**
-* MUSCULO_SINERGISTA_1
-**Estabilizadores:**
-* MUSCULO_ESTABILIZADOR_1
+**Sinergistas/Estabilizadores:**
+* MUSCULO_SINERGISTA-ESTABILIZADOR_1
  
  # Cómo ejecutar el ejercicio
 1. INSTRUCCIÓN_1
